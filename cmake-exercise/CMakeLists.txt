@@ -1,0 +1,4 @@
+PROJECT (HELLO)
+cmake_minimum_required(VERSION 3.10)
+INCLUDE_DIRECTORIES(include)
+ADD_SUBDIRECTORY(src bin)
