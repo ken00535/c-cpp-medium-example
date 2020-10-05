@@ -1,0 +1,13 @@
+{
+ "profile_host": "[settings]\narch=x86_64\narch_build=x86_64\nbuild_type=Release\ncompiler=gcc\ncompiler.libcxx=libstdc++\ncompiler.version=7\nos=Linux\nos_build=Linux\n[options]\n[build_requires]\n[env]\n",
+ "graph_lock": {
+  "nodes": {
+   "0": {
+    "pref": "None/None:0ab9fcf606068d4347207cc29edd400ceccbc944",
+    "options": "",
+    "path": "/home/ken/git/medium-example-c-cpp/conan-recipe/test_package/conanfile.py"
+   }
+  }
+ },
+ "version": "0.2"
+}

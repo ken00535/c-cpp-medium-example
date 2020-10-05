@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello.h
+
+/home/ken/git/medium-example-c-cpp/conan-recipe/test_package/example.cpp
+iostream
+-
+hello.h
+/home/ken/git/medium-example-c-cpp/conan-recipe/test_package/hello.h
+
