@@ -1,3 +1,0 @@
-/home/ken/git/medium-example-c-cpp/conan-recipe/test_package/build/CMakeFiles/rebuild_cache.dir
-/home/ken/git/medium-example-c-cpp/conan-recipe/test_package/build/CMakeFiles/example.dir
-/home/ken/git/medium-example-c-cpp/conan-recipe/test_package/build/CMakeFiles/edit_cache.dir
